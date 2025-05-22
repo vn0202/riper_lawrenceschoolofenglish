@@ -1,0 +1,374 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .topbar .top-info 
+	{
+		display: block;
+		text-align: center;
+		margin-bottom: 7px;
+		margin-top: 5px;
+	}
+	.topbar .other-links    
+	{
+		text-align: center !important;
+		margin-bottom: 10px;
+	}
+	.topbar .other-links a
+	{
+		font-size: 14px;
+	}
+	.banner-text
+	{
+		max-width: 100%;
+		margin:auto;
+	}
+	.team-container .team-box .team-description p
+	{
+		font-size: 15px;
+	}
+	.home-banner .banner-text h5
+	{
+		text-align: center;
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+	.home-banner .banner-text p
+	{
+	    font-weight: 500;
+		font-size: 17px;
+		padding:0 15px;
+		text-align: center;
+		line-height: 23px;
+	}
+	.home-banner .banner-text p br
+	{
+		display: none;
+	}
+	.form-enquiry-banner 
+	{
+	}
+	.form-enquiry-banner .form-enquiry-banner-container p
+	{
+		padding:0  15px;
+	}
+	.form-enquiry-banner
+	{
+		background-color: rgb(0 0 0 / 70%);
+		max-width: 70%;
+		margin:auto;
+		margin-top: 20px;
+	}
+	.form-enquiry-banner .form-enquiry-banner-container .captcha-image
+	{
+		text-align: center;
+		margin-top: 3px;
+		margin-bottom: 10px;
+	}
+	.heading01 h5
+	{
+		font-size: 35px;
+	}
+	section.about-section p
+	{
+		padding: 0 7px;
+		font-size: 15px;
+	}
+	.our-courses .heading01 h5 span,
+	section.about-section.why-us .heading01 h5 span
+	{
+		display: inline-block;
+	}
+	section.about-section.why-us .heading01
+	{
+		text-align: center !important;
+	}
+	section.our-courses
+	{
+		padding:30px 0;
+	}
+	section.about-section ul li
+	{
+		font-size: 15px;
+		font-weight: 500;
+	}
+	section.about-section.why-us .combin-images
+	{
+		width: 70%;
+		margin-left: 15%;
+		float: none;
+		margin-top: 25px;
+	}
+	.about-section.why-us ul
+	{
+		display: table;
+		margin:auto;
+	}
+
+	.contact-info-footer-row
+	{
+		justify-content: center;
+	}
+	.contact-info-footer-row .contact-info-colom
+	{
+		width: calc(50% - 40px);
+		margin-bottom: 25px;
+	}
+	footer .footer-links ul
+	{
+		text-align: center;
+	}
+	footer .footer-links ul li a
+	{
+		font-size: 14px;
+	}
+	footer .footer-links ul li:not(:last-child) a
+	{
+		padding-right: 7px;
+   		margin-right: 7px;
+	}
+	.facebok-icon
+	{
+		width: 112px;
+	}
+
+	.banner-innerpages
+	{
+		min-height: 150px;
+	}
+	.banner-innerpages .banner-text h5
+	{
+		font-size: 30px;
+	}
+
+	.description-box-innerpage .side-image
+	{
+		max-width: 300px;
+	}
+	.description-box-innerpage p
+	{
+		padding:0 10px;
+	}
+	.side-image2
+	{
+		max-width: 60%;
+		margin-left: 20%;
+		margin-bottom: 15px;
+	}
+	body.profile-page .about-section.why-us ul li
+	{
+		font-size: 14px;
+	}
+	.mytables .table tbody tr td
+	{
+		font-size: 14px;
+	}
+	.team-box-row .team-box-colom
+	{
+		width: calc(33.333% - 40px);
+	}
+	/*.team-container .team-box .team-image .image
+	{
+		max-width: 50%;
+		margin-left: 25%;
+	}*/
+	.team-box-row .team-box-colom .team-content-area .image
+	{
+		height: auto;
+	}
+	.modal-wrapper .modal-container
+	{
+		max-width: 90%;
+	}
+	.modal-wrapper .modal-container .modal-bodys
+	{
+		padding:45px 25px;
+	}
+	
+	.team-container .team-box .team-description
+	{
+		padding-right: 0;
+	}
+	.team-container .team-box .team-description .name
+	{
+		font-size: 20px;
+		text-align: center;
+	}
+	.team-container .team-box .team-description .name span
+	{
+		font-size: 15px;
+	}
+
+	.services-row .services-block .service-block-container .image
+	{
+		width: 100%;
+		order: 1;
+	}
+
+	.services-row .services-block .service-block-container .content-services
+	{
+		width: 100%;
+		padding-top: 20px;
+		order: 2;
+	}
+	.services-row .services-block .service-block-container .image .images
+	{
+	    width: 60%;
+	    margin-left: 20%;
+	}
+	.services-row .services-block .service-block-container .image .images:before
+	{
+		display: none;
+	}
+	.services-row .services-block .service-block-container
+	{
+		margin-bottom: 30px;
+	}
+	.services-row .services-block .service-block-container .content-services h5
+	{
+		font-size: 20px;
+	}
+	.services-row .services-block .service-block-container .content-services h6
+	{
+		font-size: 16px;
+	}
+	.services-row .services-block .service-block-container .content-services ul li
+	{
+		font-size: 14px;
+	}
+
+	.results-certificate-section .heading01
+	{
+		text-align: center !important;
+	}
+	.results-certificate-section .heading01 h5 span
+	{
+		text-align: center;
+	}
+	
+
+	.result-search .drop-down-search
+	{
+		display:inline-flex;
+		margin-left: 20%;
+	}
+	.gallery-box-container .gallery-box
+	{
+		width: calc(33.333% - 20px);
+	}
+	.gallery-box-container .gallery-box .image .img-box
+	{
+		background-size: cover;
+		height: 170px;
+	}
+	.home-target-box-container .home-target-box
+	{
+		width: calc(25% - 14px);
+	}
+	#self-accordion .accordion-block .head
+	{
+		font-size: 15px;
+	}
+	#self-accordion .accordion-block .head .icon
+	{
+	}
+	.testimonial-design-container-row .testimonial-design-colom .testimonial-container
+	{
+		padding:25px 25px;
+	}
+	.testimonial-design-container-row .testimonial-design-colom
+	{
+		width: calc(47% - 20px);
+		margin-bottom: 20px;
+	}
+	.testimonial-design-colom .testimonial-container .image-and-name
+	{
+		position: static;
+		display: block;
+		text-align: center;
+	}
+	.testimonial-design-colom .testimonial-container .image-and-name .image
+	{
+		width: 100%;
+		margin:auto;
+		max-width: 88px;
+		height: 88px;
+		border-radius: 50%;
+	}
+	.testimonial-design-colom .testimonial-container .name
+	{
+		padding-top: 10px;
+		padding-left: 0;
+	}
+
+	section.contact-us-page .contact-arae-row
+	{
+		max-width: 95%;
+		margin:auto;
+		box-shadow: 0px 0px 17px 7px rgb(0 0 0 / 10%);
+	}
+	.add-ress-container
+	{
+		padding:15px;
+	}
+	section.contact-us-page .contact-arae-row .bg-color-form:before
+	{
+		display: none;
+	}
+	section.contact-us-page .contact-arae-row .bg-color-form
+	{
+		border-radius: 0 0 0 0;
+	}
+	section.contact-us-page .contact-arae-row .bg-color-form
+	{
+		padding:30px 20px;
+	}
+	section.contact-us-page .contact-arae-row .bg-color-form .heading1 h4
+	{
+		margin-bottom: 10px;
+	}
+	section.contact-us-page .contact-arae-row .bg-color-form .heading1 h4 span
+	{
+		font-size: 22px;
+	}
+	section.contact-us-page
+	{
+		padding-bottom: 0;
+	}
+	.results-certificate-section .home-target-box-container .home-target-box
+	{
+		    width: calc(33.33% - 30px);
+	}
+
+
+
+	.logo-area .logo
+	{
+		width: 90%;
+	}
+	.logo-navigation .container .logo a
+	{
+		width: 100%;
+	}
+	.logo-navigation .container .logo a .text-name span:nth-child(1)
+	{
+		font-size: 35px !important;
+	}
+}
+/*
+     FILE ARCHIVED ON 23:22:05 Feb 26, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:25:11 May 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.543
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.012
+  cdx.remote: 15.309
+  LoadShardBlock: 105.548 (3)
+  PetaboxLoader3.datanode: 119.617 (4)
+  load_resource: 141.291
+  PetaboxLoader3.resolve: 117.509
+*/

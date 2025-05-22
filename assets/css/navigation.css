@@ -1,0 +1,109 @@
+
+     @media screen and (max-width: 992px) {
+     	.logo-navigation .container
+     	{
+     		max-width: 100%;
+     	}
+     	.logo-area .logo
+     	{
+     		width: 80%;
+     	}
+     	.logo-navigation .container .logo a .text-name
+     	{
+     		padding-left: 8px;
+     	}
+     	.logo-navigation .container .logo a .text-name span:nth-child(1){
+ 		    font-size: 23px;
+			line-height: 22px;
+     	}
+     	.logo-navigation .container .logo a .text-name span:nth-child(2)
+     	{
+     		font-size: 15px;
+     	}
+     	.logo-area
+     	{
+     		position: relative;
+     	}
+     	.logo-area .toggle-btn
+     	{
+     		display: block;
+     		position: absolute;
+     		top: 50%;
+     		transform: translateY(-50%);
+     		right: 5px;
+     		width: 40px;
+     		height: 40px;
+     		background-color: var(--color1);
+     		color: var(--white);
+     		border-radius: 6px;
+     		text-align: center;
+     		cursor: pointer;
+     	}
+     	.logo-area .toggle-btn span
+     	{
+     		line-height: 40px;
+     		font-size: 1.2em;
+     	}
+
+     	.logo-navigation
+     	{
+     		position: static;
+     	}
+
+     	.logo-navigation .main-ul
+     	{
+     		float: none;
+     		padding:8px;
+     		margin:10px 0;
+     		display: none;
+     	}
+     	.logo-navigation .main-ul .main-li
+     	{
+     		float: none;
+     		margin:0 0;
+     	}
+     	.logo-navigation .main-ul .main-li > a
+     	{
+     		text-align: center;
+     		padding:6px 15px;
+     		border-radius: 0;
+     		border-bottom: 1px solid #ccc;
+     	}
+     	.dropdown1 .submenu1 li a
+     	{
+     		white-space: normal;
+     	}
+     	.dropdown1 .submenu1
+     	{
+     		position: static;
+     		padding-top: 0;
+     		background-color: #eaeaea;
+     		margin:8px;
+     		display: none;
+     	}
+     	.dropdown1 .submenu1 li a
+     	{
+     		text-align: center;
+     		font-weight: 600;
+     	}
+      }
+/*
+     FILE ARCHIVED ON 23:22:05 Feb 26, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:25:12 May 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.511
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.009
+  esindex: 0.012
+  cdx.remote: 45.734
+  LoadShardBlock: 172.47 (3)
+  PetaboxLoader3.datanode: 139.777 (4)
+  load_resource: 211.131
+  PetaboxLoader3.resolve: 186.065
+*/
